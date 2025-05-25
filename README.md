@@ -1,5 +1,5 @@
 React hook form is good for a large application to manage forms
-
+https://chatgpt.com/share/68334686-36ec-8008-a74d-37504e39ceef
 
 ChatGPT said:
 Yes, React Hook Form is a solid choice for managing forms in large applications, and here’s why:
